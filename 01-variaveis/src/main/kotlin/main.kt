@@ -8,7 +8,7 @@ fun main() {
     println(x)
     println(y)
 
-    var num1:Byte = 0
+    var num1:Byte = 1
     var num2:Short = 1
     var num3:Int = 2
     var num4:Long = 3
