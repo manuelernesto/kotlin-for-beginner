@@ -26,6 +26,11 @@ fun main() {
 
     // 100 ate 1 pulando 2 casas
     for (i in 100 downTo 1 step 2){
+        //println(i)
+    }
+
+    //1 ate 10, -10
+    for (i in 1 until 10){
         println(i)
     }
 }
